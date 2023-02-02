@@ -1,0 +1,19 @@
+img {
+    border-radius: 50%;
+}
+
+div {
+    margin: 10px;
+}
+
+body{
+    background-color: rgba(64, 110, 14, 0.286);
+}
+
+hr {
+    border-color: black;
+}
+
+td {
+    padding-right: 100px;
+}
